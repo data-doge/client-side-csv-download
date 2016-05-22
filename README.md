@@ -1,14 +1,14 @@
-## client-side-csv-download
+# client-side-csv-download
 
 downloads csv string as file on the client-side
 
-### install
+## install
 
 ```bash
 npm i --save client-side-csv-download
 ```
 
-### usage
+## usage
 
 ```js
 import downloadCSV from 'client-side-csv-download'

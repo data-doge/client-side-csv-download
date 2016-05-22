@@ -1,6 +1,6 @@
 {
   "name": "client-side-csv-download",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "downloads csv string as file on the client-side",
   "main": "index.js",
   "scripts": {
